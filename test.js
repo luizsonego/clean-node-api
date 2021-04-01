@@ -1,3 +1,3 @@
-const teste () {
-  return {1:1}
+function test() {
+  return {}
 }
